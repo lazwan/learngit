@@ -17,9 +17,9 @@
 >>
 --------------------------------------------------
 # 二、插入链接
->> [baidu](www.baidu.com)
+>> [baidu](https://www.baidu.com)
 >>
->> [Google](www.google.com)
+>> [Google](https://www.google.com)
 --------------------------------------------------
 # 三、列表
 >> * Number1
