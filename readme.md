@@ -9,11 +9,11 @@
 > This is the second paragraph in the blockquote.
 >
 > ## Welcome to my home!
-> Case1:
+> Case1:WZH
 >
-> Case2:
+> Case2:JHK
 > 
-> Case3:
+> Case3:QYC
 >
 --------------------------------------------------
 # 二、插入链接
@@ -22,11 +22,11 @@
 > [Google](https://www.google.com)
 --------------------------------------------------
 # 三、列表
-> * Number1
+> * Number1:Windows
 > 
-> * Number2
+> * Number2:Linux
 > 
-> * Number3
+> * Number3:Mac OS
 > 
 >> 1.C
 >>
